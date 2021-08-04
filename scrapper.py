@@ -35,7 +35,7 @@ def extract_hospital(html):
 
 def final_location(location, word):
    url = f"https://dapi.kakao.com/v2/local/search/address.json?query={location}"
-   kakao_key = "ad56395ee64d113ef03bd7a02a5dc0ea" # 보안주의~
+   kakao_key = "본인 키 쓰세요" # 보안주의~
    result = requests.get(url, headers={"Authorization":f"KakaoAK {kakao_key}"})
    json_obj = result.json()
    # print(json_obj)
