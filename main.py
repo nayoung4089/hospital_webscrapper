@@ -3,8 +3,6 @@ from scrapper import scrap_hospital
 
 app = Flask("hospitialScrapper")
 
-db = {} # 같은 거 입력했을 땐 두번 크롤링 하지 않게 여기에 저장
-
 @app.route("/") # homepage
 def home():
     return render_template('home.html')
