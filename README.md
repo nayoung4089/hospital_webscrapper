@@ -1,4 +1,4 @@
-# 🏥 hospital_webscrapper
+# 🏥 병원정보 크롤링
 주변 병원정보 크롤링
 > Blog: https://blog.naver.com/nayoung4089/222452595443 
 
