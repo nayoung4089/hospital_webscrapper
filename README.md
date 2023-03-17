@@ -1,6 +1,6 @@
 # 🏥 hospital_webscrapper
 주변 병원정보 크롤링
-> Link: 
+> Blog: https://blog.naver.com/nayoung4089/222452595443 
 
 ## 🕰 개발기간
 ~ 2021.07.31 (약 4일)
